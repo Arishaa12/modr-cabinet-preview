@@ -10,7 +10,7 @@ let transferInput = document.querySelector("#tri");
 let transferButton = document.querySelector("#trb");
 let transferAlert = document.querySelector("#tra");
 
-const AUTH_PAGE_URL = "https://hxshard.github.io/modr-cabinet-preview/auth.html?bc=1";
+const AUTH_PAGE_URL = "https://test.modr.club/auth.html?bc=1";
 
 const STR = {
     ERR: "Неизвестная ошибка.",

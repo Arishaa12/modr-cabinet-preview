@@ -10,10 +10,46 @@
     border-left: 4px solid #dc0000bd;
 }
 
+.g {
+    border-left: 4px solid #55dd12bd;
+}
+
 .i {
     font-style: normal;
 }
 
 .h {
     display: none;
+}
+
+.f {
+    width: calc(100% - 20px);;
+}
+
+.m {
+    color: #607895;
+}
+
+.vk {
+    background-color: #2d81e0;
+}
+
+.tg {
+    background-color: #0088cc;
+}
+
+@media screen and (max-width: 800px) {
+    .au {
+        text-align: center
+    }
+
+    .aub {
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 800px) {
+    .aub {
+        min-width: 300px;
+    }
 }

@@ -13,7 +13,7 @@ let transferAlert = document.querySelector("#tra");
 const AUTH_PAGE_URL = "https://test.modr.club/auth.html?bc=1";
 
 const STR = {
-    ERR: "Неизвестная ошибка.",
+    ERR: "Неизвестная Ашибка.",
     ERR_401: "Ошибка авторизации.",
     ERR_500: "Внутренняя ошибка сервера.",
     ERR_1000: "Произошла ошибка при подключении к серверу. Проверьте своё соединение с интернетом.",
